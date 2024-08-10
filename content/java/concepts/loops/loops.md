@@ -72,7 +72,7 @@ Liftoff!
 
 ## For-Each Loop
 
-In Java, the `for`-`each` loop allows you to directly loop through each item in an array or `ArrayList` and perform some action with each item.
+In Java, the `for`-`each` loop allows you to directly loop through each item in an array or `ArrayList` and hperform some action with each item.
 
 When creating a `for`-`each` loop, you must include the `for` keyword and two expressions inside of parentheses, separated by a colon. These include:
 
